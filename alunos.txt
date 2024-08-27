@@ -1,0 +1,3 @@
+Joao : 10.0
+Paulo : 8.0
+Janaina : 9.0
